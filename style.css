@@ -11,7 +11,7 @@
 .chat{
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  height: 99vh;
   background: #f1f0e8;
 }
 .chat-header{
